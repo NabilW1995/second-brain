@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Areas/Health/Health.md",
+                "file": "3-Resources/Magic/Double Lift.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health"
+              "title": "Double Lift"
             }
           }
         ]
@@ -191,8 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d92bff8b3496e73",
+  "active": "5878dc022d09c7f3",
   "lastOpenFiles": [
+    "2-Areas/Health/Health.md",
+    "3-Resources/Magic/Double Lift.md",
+    "3-Resources/Magic",
     "Templates/Person.md",
     "Templates/Project.md",
     "Templates/Meeting.md",
@@ -205,13 +208,11 @@
     "README.md",
     "2-Areas/Work/Work.md",
     "2-Areas/Social/Social.md",
-    "2-Areas/Health/Health.md",
     "2-Areas/Finance/Finance.md",
     "2-Areas/Work",
     "2-Areas/Social",
     "2-Areas/Health",
     "2-Areas/Finance",
-    "2-Areas",
     "1-Projects/Magic App.md"
   ]
 }
