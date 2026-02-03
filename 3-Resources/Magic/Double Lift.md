@@ -15,3 +15,6 @@ The **double lift** is one of the most fundamental and essential sleight-of-hand
 
 ## Tags
 #magic #sleight-of-hand #cards #fundamentals
+
+---
+*Updated: Tue Feb  3 03:31:20 UTC 2026*
