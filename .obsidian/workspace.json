@@ -11,10 +11,14 @@
             "id": "5878dc022d09c7f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-Areas/Health/Health.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Health"
             }
           }
         ]
@@ -157,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Gliederung"
             }
+          },
+          {
+            "id": "2f133e929b74e885",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5878dc022d09c7f3",
+  "active": "3d92bff8b3496e73",
   "lastOpenFiles": [
-    "Templates/Project.md",
     "Templates/Person.md",
+    "Templates/Project.md",
     "Templates/Meeting.md",
     "Templates/Daily Note.md",
+    "Daily",
+    "4-Archive",
+    "3-Resources",
+    "0-Inbox",
     "Templates",
     "README.md",
     "2-Areas/Work/Work.md",
@@ -194,7 +212,6 @@
     "2-Areas/Health",
     "2-Areas/Finance",
     "2-Areas",
-    "1-Projects/Magic App.md",
-    "1-Projects"
+    "1-Projects/Magic App.md"
   ]
 }
