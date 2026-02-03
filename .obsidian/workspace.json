@@ -191,9 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d92bff8b3496e73",
+  "active": "5878dc022d09c7f3",
   "lastOpenFiles": [
     "1-Projects/Test.md",
+    "1-Projects/Magic App.md",
     "3-Resources/Magic/Double Lift.md",
     "3-Resources/Magic/Second Deal.md",
     "3-Resources/Magic/Pinky Break.md",
@@ -215,7 +216,6 @@
     "2-Areas/Work",
     "2-Areas/Social",
     "2-Areas/Health",
-    "2-Areas/Finance",
-    "1-Projects/Magic App.md"
+    "2-Areas/Finance"
   ]
 }
